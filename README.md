@@ -108,6 +108,3 @@ MIT License. See LICENSE for details. 📝
 🙌 #**Contributing**
 Submit pull requests or open issues for bugs/features. 🚀
 
-📧 #**Contact**
-Reach out at suruswork395@gmail.com. 📩
-Happy forecasting! 🎉
